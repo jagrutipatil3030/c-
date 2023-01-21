@@ -1,0 +1,129 @@
+Using System;
+using System.collection.Generic;
+using System.linq;
+using system.Text;
+
+namespace message 
+{
+ class program 
+ {
+  static void main(String args[])
+  {
+    int no ,i;
+    Console.writeLine(" Enter number for print message ");
+    Convert.ToInt32(Console.ReadLine());
+    
+      for(i=1;i<=no;i++)
+      {
+         Console.WriteLine(" Hello ");
+      }
+    }
+  }
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
