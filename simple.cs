@@ -1,15 +1,16 @@
 using System;
-using System.Collection.Generic;
-using Systen.Linq;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
-namespace simplemessag
+namespace simplemessage
 {
- class program
- {
-   static void main(String args[])
-   {
-     Console.WriteLine(" Each One,Tech One,Tree One ");
-     }
-  }
-}  
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Each One Teach One Tree One");
+            Console.ReadLine();
+        }
+    }
+} 
