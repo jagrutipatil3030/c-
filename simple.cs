@@ -1,7 +1,7 @@
 using System;
-Using System.Collection.Generic;
-Using Systen.Linq;
-Using System.Text;
+using System.Collection.Generic;
+using Systen.Linq;
+using System.Text;
 
 namespace simplemessag
 {
