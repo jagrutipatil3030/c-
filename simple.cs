@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace simplemessage
+namespace simplemsg
 {
+    
     class Program
     {
         static void Main(string[] args)
@@ -13,4 +14,4 @@ namespace simplemessage
             Console.ReadLine();
         }
     }
-} 
+}
